@@ -8,6 +8,8 @@ With Fine Code Coverage extension enabled - this seemed to cause the test to exe
 
 ![Fine Code Coverage Extension shown as enabled in Extensions](images/Fine%20Code%20Coverage%20Extension%20enabled.png)
 
+
+Contents from the log after selecting the test in VS Test Explorer and picking "Run".
 ```
 1/29/2024 12:29:13 AM Tst Add two numbers
 1/29/2024 12:29:22 AM Tst Add two numbers
