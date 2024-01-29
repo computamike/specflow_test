@@ -6,6 +6,8 @@ When the test executes, it writes a log into the test_explorer.log file, that wi
 
 With Fine Code Coverage extension enabled - this seemed to cause the test to execute twice.
 
+![Fine Code Coverage Extension shown as enabled in Extensions](images/Fine%20Code%20Coverage%20Extension%20enabled.png)
+
 ```
 1/29/2024 12:29:13 AM Tst Add two numbers
 1/29/2024 12:29:22 AM Tst Add two numbers
